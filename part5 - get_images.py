@@ -35,6 +35,6 @@ def save_images(links, search_name):
 
 
 if __name__ == '__main__':
-    search_name = 'fidget kid spinner toys'
+    search_name = 'H beam'
     links = get_links(search_name)
     save_images(links, search_name)

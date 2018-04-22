@@ -13,7 +13,7 @@ object_list = []
 # constants
 image_folder = 'images'
 savedir = 'annotations'
-obj = 'fidget_spinner'
+obj = 'H_beam'
 
 
 def line_select_callback(clk, rls):

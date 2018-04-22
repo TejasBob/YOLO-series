@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
     folder = 'images'
     img = [im for im in os.scandir('images') if '000001' in im.name][0]
-    objects = ['fidget_spinner']
+    objects = ['H_beam']
     tl = [(10, 10)]
     br = [(100, 100)]
     savedir = 'annotations'
